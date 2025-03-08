@@ -2,7 +2,8 @@
 
 ## Intro
 
-"Bourne Again SHell", 
+"Bourne Again SHell", git log
+
 
 
 ## Commands
